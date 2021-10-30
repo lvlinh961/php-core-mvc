@@ -2,7 +2,7 @@
     "name": "lvl/php-core-mvc",
     "autoload": {
         "psr-4": {
-            "Lvl\\PhpCoreMvc\\": "./"
+            "lvl\\phpcoremvc\\": "./"
         }
     },
     "authors": [

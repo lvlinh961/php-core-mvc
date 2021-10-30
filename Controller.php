@@ -7,7 +7,7 @@ class Controller
 	public $action = '';
 
 	/**
-	 * @var \app\core\middlewares\BaseMiddleware[]
+	 * @var \lvl\phpcoremvc\middlewares\BaseMiddleware[]
 	*/
 	protected $middlewares = [];
 

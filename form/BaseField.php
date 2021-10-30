@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace lvl\phpcoremvc\form;
 
-use app\core\Model;
+use lvl\phpcoremvc\Model;
 
 
 abstract class BaseField

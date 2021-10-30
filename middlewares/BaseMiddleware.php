@@ -1,5 +1,5 @@
 <?php
-namespace app\core\middlewares;
+namespace lvl\phpcoremvc\middlewares;
 
 abstract class BaseMiddleware
 {
