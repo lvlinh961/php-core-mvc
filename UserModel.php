@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace lvl\phpcoremvc;
 
 use lvl\phpcoremvc\db\DbModel;
 
