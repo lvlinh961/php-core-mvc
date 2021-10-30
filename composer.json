@@ -1,0 +1,15 @@
+{
+    "name": "lvl/php-core-mvc",
+    "autoload": {
+        "psr-4": {
+            "Lvl\\PhpCoreMvc\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Linh Le",
+            "email": "lvlinh96@gmail.com"
+        }
+    ],
+    "require": {}
+}
